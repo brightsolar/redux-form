@@ -7,7 +7,7 @@
   "jsnext:main": "./es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/erikras/redux-form"
+    "url": "https://github.com/brightsolar/redux-form"
   },
   "scripts": {
     "analyze": "webpack src/index.js dist/redux-form6.js -p --bail --profile --json > stats.json && webpack-bundle-analyzer stats.json",
