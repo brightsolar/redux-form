@@ -1,4 +1,4 @@
-export const prefix = '@@redux-form/'
+export const prefix = '@@redux-form6/'
 
 export const ARRAY_INSERT = `${prefix}ARRAY_INSERT`
 export const ARRAY_MOVE = `${prefix}ARRAY_MOVE`
